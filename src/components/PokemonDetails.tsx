@@ -12,7 +12,6 @@ import {
   Grid
 } from '@mui/material';
 
-// Define Pokemon type based on pokenode-ts Pokemon interface
 export interface PokemonData {
   id: number;
   name: string;
